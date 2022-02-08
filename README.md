@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-Here are some ideas to get you started:
-
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=0pen1&show_icons=true&theme=radical" width="380">
 
 - 🌱 I’m currently learning Coding, Pentest and Cooking
